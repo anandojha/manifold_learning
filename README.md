@@ -6,7 +6,7 @@ manifold_learning
 
 
 
-Jupyter Notebooks for the ManifoldEM Python Suite
+# Jupyter Notebooks for the ManifoldEM Python Suite
 
 ## Installation Requirements :
 
