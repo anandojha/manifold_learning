@@ -31,7 +31,11 @@ pip install notebook==6
 ```bash
 pip install seaborn
 ```
-## Downloading the sample cryo-EM data :
+## Downloading the sample cryo-EM data for the notebooks:
+```bash
+wget  -P ~/manifold_learning/manifold_learning/notebooks https://zenodo.org/records/10728025/files/data.zip?download=1
+```
+
 
 ### Copyright
 
