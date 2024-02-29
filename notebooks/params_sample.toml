@@ -1,0 +1,54 @@
+[params]
+AmpContrast = 0.0
+Cs = 0.0
+EkV = 0.0
+PDsizeThH = 2000
+PDsizeThL = 100
+align_param_file = "../data/sample.star"
+ap_index = 4
+avg_vol_file = "../data/sample.mrc"
+conOrderRange = 50
+dim = 1
+eps = 1e-10
+findBadPsiTau = true
+fps = 5.0
+gaussEnv = inf
+getAllEdgeMeasures = true
+getOpticalFlow = true
+img_stack_file = "../data/sample.mrcs"
+mask_vol_file = ""
+nClass = 50
+nPix = 336
+ncpu = 1
+num_eigs = 15
+num_part = 0
+num_psiTrunc = 8
+num_psis = 8
+numberofJobs = 0
+obj_diam = 360
+opt_mask_param = 0
+opt_mask_type = 0
+pix_size = 1.255
+proj_name = "sample"
+rad = 5
+relion_data = true
+resProj = 0
+resol_est = 5
+tau_occ_thresh = 0.35
+temperature = 25
+trajName = "1"
+tune = 3
+use_pruned_graph = false
+width_1D = 1
+width_2D = 1
+
+[params.opt_movie]
+printFig = 0
+OFvisual = 0
+visual_CC = 0
+flowVecPctThresh = 95
+
+[params.visualization_params]
+S2_scale = 1.0
+S2_density = 1000
+S2_isosurface_level = 3
