@@ -35,8 +35,12 @@ pip install seaborn
 ```bash
 wget -P ~/manifold_learning/manifold_learning/notebooks https://zenodo.org/records/10728025/files/data.zip?download=1
 ```
-
-
+```bash
+unzip 'data.zip?download=1'
+```
+```bash
+rm 'data.zip?download=1'
+```
 ### Copyright
 
 Copyright (c) 2024, Anupam Anand Ojha
