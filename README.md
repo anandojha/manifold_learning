@@ -8,7 +8,7 @@ manifold_learning
 
 # Jupyter Notebooks for the ManifoldEM Python Suite
 
-## Installation Requirements :
+## Installation Requirements 
 
 ```bash
 conda create -n manifold_learning python=3.10
@@ -28,7 +28,7 @@ pip install notebook==6
 ```bash
 pip install seaborn
 ```
-## Downloading the sample cryo-EM data for the notebooks:
+## Downloading the sample cryo-EM data for the notebooks
 ```bash
 wget -P ~/manifold_learning https://zenodo.org/records/10728025/files/data.zip?download=1
 ```
