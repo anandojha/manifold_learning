@@ -17,7 +17,7 @@ conda create -n manifold_learning python=3.10
 conda activate manifold_learning 
 ```
 ```bash
-conda install mayavi pyqt=5 python=3.10 -c conda-forge
+conda install -c conda-forge mayavi pyqt=5
 ```
 ```bash
 pip install "git+ssh://git@github.com/flatironinstitute/ManifoldEM"
