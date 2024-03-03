@@ -20,14 +20,36 @@ conda activate manifold_learning
 conda install -c conda-forge mayavi pyqt=5
 ```
 ```bash
-pip install "git+ssh://git@github.com/flatironinstitute/ManifoldEM"
-```
-```bash
 pip install notebook==6
 ```
 ```bash
 pip install seaborn
 ```
+```bash
+pip install mrcfile
+```
+```bash
+pip install scipy
+```
+```bash
+pip install mrcfile
+```
+```bash
+pip install nptyping
+```
+```bash
+pip install scikit-learn
+```
+```bash
+pip install numba
+```
+```bash
+pip install tqdm
+```
+```bash
+pip install imageio
+```
+
 ## Downloading the sample cryo-EM data for the notebooks
 ```bash
 wget -P ~/manifold_learning https://zenodo.org/records/10728025/files/data.zip?download=1
