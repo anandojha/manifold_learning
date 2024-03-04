@@ -17,10 +17,10 @@ conda create -n manifold_learning python=3.10
 conda activate manifold_learning 
 ```
 ```bash
-conda install -c conda-forge mayavi pyqt=5 python=3.10 
+conda install -c conda-forge pyqt=5 
 ```
 ```bash
-pip install notebook==6 seaborn mrcfile scipy nptyping scikit-learn numba tqdm imageio 
+pip install notebook==6 seaborn mrcfile scipy nptyping scikit-learn numba tqdm imageio toml
 ```
 ## Downloading the sample cryo-EM data for the notebooks
 ```bash
